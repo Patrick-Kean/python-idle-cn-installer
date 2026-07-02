@@ -6,8 +6,18 @@
 
 ## 软件截图
 
-![安装器截图](assets/screenshot_install.jpg)
-![卸载器截图](assets/screenshot_uninstall.jpg)
+<table>
+  <tr>
+    <td align="center">
+      <img src="assets/screenshot_install.jpg" alt="安装器截图" width="380"><br>
+      安装器
+    </td>
+    <td align="center">
+      <img src="assets/screenshot_uninstall.jpg" alt="卸载器截图" width="380"><br>
+      卸载器
+    </td>
+  </tr>
+</table>
 
 ## 功能特点
 
