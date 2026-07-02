@@ -6,7 +6,8 @@
 
 ## 软件截图
 
-![安装器截图](assets/screenshot.jpg)
+![安装器截图](assets/screenshot_install.jpg)
+![卸载器截图](assets/screenshot_uninstall.jpg)
 
 ## 功能特点
 
